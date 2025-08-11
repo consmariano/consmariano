@@ -1,7 +1,13 @@
 # Hi, I'm Constanza Mariano 👋
-🎓 Mechatronics Engineer | 💡 Passionate about Precision and Medical Device Engineering | 🤖 Robotics, AI & Digital Healthcare
+🎓 Mechatronics Engineer with a passion for solving real-world challenges through Robotics, AI, and Digital Healthcare.
+💡 My mission is to apply engineering excellence to create inclusive, data-driven medical technologies with a special focus on addressing disparities in women’s healthcare.
 
-I combine a background in **precision engineering** with a mission-driven focus on creating inclusive healthcare technologies, particularly in **women’s health**, where disparities in access and diagnosis remain critical.
+## 🔍 What I’m About
+- Precision engineering and healthcare: From ultra-precision monitoring systems to intelligent decision-support tools.
+
+- Research-Driven: Experienced in academic and industrial R&D, turning complex problems into scalable solutions.
+
+- Equity in tech: I believe innovation must serve everyone, especially underrepresented groups in healthcare data and diagnostics.
 
 ## 🔧 Technical Skills
 - **Programming:** Python, C++, MATLAB, SQL
@@ -12,12 +18,14 @@ I combine a background in **precision engineering** with a mission-driven focus 
 ## 🚀 Featured Projects
   
 - **[Order Control System (Demo Project)](link)**  
-  Demonstrated automation system inspired by my work at Siemens, reducing order delay registrations by **10%** and improving delivery process efficiency.
+  Demonstrated automation system inspired by my current internship, reducing order delay registrations by **10%** and improving delivery process efficiency.
 
 - **[Women’s Health AI Research Prototype](link)**  
   Prototype decision-support tool integrating demographic and clinical data to improve diagnostic equity in radiology.
 
-## 🎯 Current Mission
-I aim to use **robotics, AI, and healthcare IT** to bridge diagnostic gaps and build medical technologies that truly serve all patients.
+## 🌱 Currently Learning
+Advanced Digitalization & AI for Medical Devices
+Clinical Data Analysis for Decision-Support Systems
+Radiographic & Neurodiagnostic Data Processing
 
 📫 **Contact Me**: [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/constanza-maria-mariano/)) | [Email](mailto:constanzamrsm@gmail.com)
