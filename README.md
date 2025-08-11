@@ -1,6 +1,5 @@
 # Hi, I'm Constanza Mariano 👋
-🎓 Mechatronics Engineer with a passion for solving real-world challenges through Robotics, AI, and Digital Healthcare.
-💡 My mission is to apply engineering excellence to create inclusive, data-driven medical technologies with a special focus on addressing disparities in women’s healthcare.
+🎓 Mechatronics Engineer with a passion for solving real-world challenges through Robotics, AI, and Digital Healthcare. My mission is to apply engineering to create inclusive, data-driven medical technologies with a special focus on addressing disparities in women’s healthcare.
 
 ## 🔍 What I’m About
 - Precision engineering and healthcare: From ultra-precision monitoring systems to intelligent decision-support tools.
@@ -24,8 +23,8 @@
   Prototype decision-support tool integrating demographic and clinical data to improve diagnostic equity in radiology.
 
 ## 🌱 Currently Learning
-Advanced Digitalization & AI for Medical Devices
-Clinical Data Analysis for Decision-Support Systems
-Radiographic & Neurodiagnostic Data Processing
+- Computational Neuroscience
+- AI for Medical Devices
+- Radiographic & Neurodiagnostic Data Processing
 
 📫 **Contact Me**: [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/constanza-maria-mariano/)) | [Email](mailto:constanzamrsm@gmail.com)
